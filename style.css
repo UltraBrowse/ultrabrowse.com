@@ -15,7 +15,7 @@ header {
 
 header h1 {
     margin: 0;
-    padding-left: 70px; /* To provide space for the logo */
+    padding-left: 0px; 
 }
 
 #logo-container {
